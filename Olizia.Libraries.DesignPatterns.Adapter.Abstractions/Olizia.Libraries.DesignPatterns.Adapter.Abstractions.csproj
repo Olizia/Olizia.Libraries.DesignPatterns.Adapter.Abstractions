@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <PropertyGroup>
+	<PackageId>Olizia.Libraries.DesignPatterns.Adapter.Abstractions</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Otávio Villas Boas Simoncini Carmanini</Authors>
+	<Company>Olizia</Company>
+	<PackageDescription>This package abstract the Adapter Pattern.</PackageDescription>
+	<PackageProjectUrl>https://github.com/Olizia/Olizia.Libraries.DesignPatterns.Adapter.Abstractions</PackageProjectUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageIcon>icon.png</PackageIcon>
+	<PackageTags>DesignPatterns;AdapterPattern;Adapter;Abstractions;</PackageTags>
+	<RepositoryUrl>https://github.com/Olizia/Olizia.Libraries.DesignPatterns.Adapter.Abstractions</RepositoryUrl>
+  </PropertyGroup>
+</Project>
