@@ -16,4 +16,7 @@
 	<PackageTags>DesignPatterns;AdapterPattern;Adapter;Abstractions;</PackageTags>
 	<RepositoryUrl>https://github.com/Olizia/Olizia.Libraries.DesignPatterns.Adapter.Abstractions</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+	<None Include="..\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
 </Project>
